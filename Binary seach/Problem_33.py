@@ -1,6 +1,5 @@
 # binary search
 # No.33 https://leetcode.com/problems/search-in-rotated-sorted-array/
-# Just solve this problem with binary search and add a judgement before choosing right or left part of next loop.
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
