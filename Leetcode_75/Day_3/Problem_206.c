@@ -25,7 +25,7 @@
 //     }
 // };
 
-// 无需额外空间头插
+// 就地逆转
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
